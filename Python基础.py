@@ -75,4 +75,6 @@ result = number%10
 result += number//10%10
 result += number//100%10
 result += number//1000
+
+print('hello world')
 print("result is "+ str(result))
